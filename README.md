@@ -1,8 +1,8 @@
 Hi, my name's Will Drenta and I am recent computer science graduate of James Madison University. 
 
-- I’m interested in the applications of Machine Learning 
-- 🌱 I’m currently learning C++, HTML, and Javascript.
-- 📫 How to reach me: email me at wdrenta123@gmail.com.
+- Currently experienced in Java, C, Python, SQL, Ruby and Haskell.
+- I’m currently learning C++, HTML, and Javascript.
+- How to reach me: email me at wdrenta123@gmail.com.
 
 
 
