@@ -1,4 +1,4 @@
-Hi, my name's Will Drenta and I am recent computer science graduate of James Madison University. 
+Hi, my name's Will Drenta and I am a recent computer science graduate of James Madison University. 
 
 - Currently experienced in Java, C, Python, SQL, Ruby and Haskell.
 - I’m currently learning C++, HTML, and Javascript.
